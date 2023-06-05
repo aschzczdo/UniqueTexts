@@ -14,7 +14,7 @@ def write_lines(file_path, lines):
         file.write('\n'.join(lines))
 
 # Folder path containing the .txt files
-folder_path = r'C:\Users\Administrator\Desktop\P&A\Database\Cbos\AllTill05.06.23'
+folder_path = r'<YOUR_TXT_FOLDER_PATH'
 result_file = 'result.txt'
 
 # Get the list of .txt files in the folder
